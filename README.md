@@ -2,6 +2,8 @@
 
 This repository serves as a template base for new projects with pre-configured Cursor rules and AI coding assistant guidelines.
 
+**Repository**: [https://github.com/WE3io/Cursor-Rules-Template](https://github.com/WE3io/Cursor-Rules-Template)
+
 ## What's Included
 
 - **Cursor Rules**: Pre-configured rules organized by type (Always, Agent Requested)
@@ -14,11 +16,11 @@ This repository serves as a template base for new projects with pre-configured C
 
 ```bash
 # Option 1: Clone the repository
-git clone <repository-url> <your-project-name>
+git clone https://github.com/WE3io/Cursor-Rules-Template.git <your-project-name>
 cd <your-project-name>
 
-# Option 2: Use GitHub template (if configured)
-# Click "Use this template" on GitHub
+# Option 2: Use GitHub template
+# Click "Use this template" button on https://github.com/WE3io/Cursor-Rules-Template
 
 # Option 3: Download and extract the template
 ```
